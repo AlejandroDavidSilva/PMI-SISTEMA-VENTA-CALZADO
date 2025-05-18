@@ -4,17 +4,11 @@
  */
 package Main;
 
-/**
- *
- * @author ds100
- */
+
 public class PMISISTEMAVENTACALZADO {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+
     }
     
 }
